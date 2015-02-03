@@ -18,7 +18,7 @@ $messages['en'] = array(
 	'jmol-loadwarning'            => 'This will load a 3D model in a Jmol applet, which may take some time',
 	'jmol-nowikipagecontents'     => 'The field wikiPageContents is not authorized on this wiki.',
 	'jmol-nouploadedfilecontents' => 'The field uploadedFileContents is not authorized on this wiki.',
-    'jmol-requesteddatanotfound'  => 'Unable to find requested data.',
+        'jmol-requesteddatanotfound'  => 'Unable to find requested data.',
 	'tog-jmolusejava'             => 'Use Java for rendering structures.',
 	'tog-jmolloadfullmodel'       => 'Load all model elements.',
 );
@@ -32,7 +32,7 @@ $messages['qqq'] = array(
 	'jmol-loadwarning'            => 'Warning message displayed to users to warn them about loading time.',
 	'jmol-nowikipagecontents'     => 'Warning message when tag wikiPageContents is used but not authorized.',
 	'jmol-nouploadedfilecontents' => 'Warning message when tag uploadedFileContents is used but not authorized.',
-    'jmol-requesteddatanotfound'  => 'Unable to find requested data.',
+        'jmol-requesteddatanotfound'  => 'Unable to find requested data.',
 	'tog-jmolusejava'             => 'Use Java for rendering structures.',
 	'tog-jmolloadfullmodel'       => 'Load all model elements.',
 );
@@ -41,12 +41,12 @@ $messages['qqq'] = array(
  * @author Nicolas Vervelle
  */
 $messages['fr'] = array(
-	'jmol-desc'                   => 'Ajoute la possibilitÃˆ d\'inclure des applets [http://www.jmol.org Jmol] dans MediaWiki.',
+	'jmol-desc'                   => 'Ajoute la possibilité d\'inclure des applets [http://www.jmol.org Jmol] dans MediaWiki.',
 	'jmol-loading'                => 'Chargement...',
-	'jmol-loadwarning'            => 'Ceci chargera un modÃ‹le 3D dans une applet Jmol, ce qui peut prendre du temps',
-	'jmol-nowikipagecontents'     => 'Le champ wikiPageContents n\'est pas autorisÃˆ sur ce wiki.',
-	'jmol-nouploadedfilecontents' => 'Le champ uploadedFileContents n\'est pas autorisÃˆ sur ce wiki.',
-    'jmol-requesteddatanotfound'  => 'Unable to find requested data.',
+	'jmol-loadwarning'            => 'Ceci chargera un modèle 3D dans une applet Jmol, ce qui peut prendre du temps',
+	'jmol-nowikipagecontents'     => 'Le champ wikiPageContents n\'est pas autorisé sur ce wiki.',
+	'jmol-nouploadedfilecontents' => 'Le champ uploadedFileContents n\'est pas autorisé sur ce wiki.',
+        'jmol-requesteddatanotfound'  => 'Unable to find requested data.',
 	'tog-jmolusejava'             => 'Use Java for rendering structures.',
 	'tog-jmolloadfullmodel'       => 'Load all model elements.',
 );

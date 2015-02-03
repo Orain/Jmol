@@ -22,7 +22,7 @@ You may use a different CSS default style for the title under applets with
 
 To disable this extension simply comment out the require_once line with a numeral (#) sign
 
-Supported USE parameter on the URL:
+Supported use= parameter on the URL:
 ?use=java   signed Jmol applet (Java)
 ?use=html5  JSmol (HTML5 only) 
 ?use=webgl  JSmol (WebGL)
@@ -34,3 +34,5 @@ and comment the line with chemical/x-pdb, declaring pdb as text/plain, as follow
 text/plain txt xyz pdb
 
 This extension is also at http://sourceforge.net/p/jmol/code/HEAD/tree/trunk/Jmol-extensions/wiki/MediaWiki/
+
+
