@@ -854,7 +854,7 @@ class Jmol {
     $detect = new Mobile_Detect;
     if (($wgUser->getOption('jmolusejava') == 1) and !$detect->isMobile()) { $reqUse = 'SIGNED'; } // instead of JAVA
     $reqUse = ($detect->isMobile()) ? 'HTML5' : $reqUse;
-    $wgJmolNumID = nul;
+    $wgJmolNumID = null;
     $wgJmolAppletID = null;
     $wgJmolPageHasApplet = false;
     

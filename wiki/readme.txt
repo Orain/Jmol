@@ -9,7 +9,7 @@ Download these files into the folder extensions/jsmol/wiki
 
 Add to your LocalSettings.php file these lines:
 
-require_once( "$IP/extensions/jsmol/wiki/Jmol.php" );
+require_once( "$IP/extensions/jmol/wiki/Jmol.php" );
 $wgJmolAuthorizeUrl = true;
 $wgJmolAuthorizeUploadedFile = true;
 $wgJmolAuthorizeJmolPdbTag = true;
